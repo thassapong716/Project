@@ -1,0 +1,19 @@
+{"data":[
+    {"id":1,"type":"video","title":"Winter Music Festival on Campus","link":"https://www.youtube.com/embed/tgbNymZ7vqY"},
+    {"id":2,"type":"picture","title":"Emory celebrates 50 years of ‘The Wiz’ with Rose Library collection opening","link":"story_main.jpeg"},
+    {"id":3,"type":"text","title":"Building boom boosts malaria-carrying, invasive mosquito in Ethiopia", "link": "A building boom is one factor helping an invasive, malaria-carrying mosquito make its home in urban Ethiopia. Emory disease ecologist Gonzalo Vazquez-Prokopec is studying ways to control the dangerous new pest in Africa. The invasion of stephensi poses a major threat to urban populations in Africa, where malaria has primarily been a rural disease. While most of the limited data available on stephensi in Africa has been gathered during the rainy season, this study focused on the city of Jigjiga in eastern Ethiopia during the peak of the dry season."},
+    {"id":4,"type":"picture","title":"Rachel Hall-Clifford receives 2023 Jeffrey P. Koplan Global Health Award","link":"recognition.jpeg"},
+    {"id":5,"type":"video","title":"Shaping the Future of AI","link":"https://www.youtube.com/embed/7ni9ERYQq2w?si=HSKz0E0aydpgVFPk"},
+    {"id":6,"type":"text","title":"You spoke, we listened: Libraries respond to user survey results with improvements", "link":"Based on results from the most recent Emory Libraries survey, staff members have been making improvements across the libraries this fall — which is perfect timing as students and faculty prep for finals and look ahead to the spring semester. Notably, computers for workstations and laptops for checkout are being upgraded to newer, faster models. More workstation monitors have been added for dual-monitor benefits for patrons or, in some cases, monitors have been replaced altogether."},
+    {"id":7,"type":"picture","title":"Emory’s Summer Undergraduate Research Experience program opens to students across disciplines","link":"story_main3.jpeg"},
+    {"id":8,"type":"text","title":"Emory co-sponsors inaugural summit for student health and well-being leaders","link":"Senior leaders from colleges and universities across the nation gathered at Emory to discuss student health and well-being, share solutions and discover ways to meet the evolving needs of students. In November, Emory University hosted the inaugural summit that drew 56 of the senior-most leaders responsible for college and university health and well-being. Attendees represented a variety of public and private institutions of higher education throughout the country."},
+    {"id":9,"type":"video","title":"Emory Move In 2023","link":"https://www.youtube.com/embed/LvZ2oBrU3FI"}
+],
+"data1":[
+    {"id":1,"name":"Jane","des":"MN","age":28},
+    {"id":2,"name":"John","des":"NJ","age":38},
+    {"id":3,"name":"Sia","des":"TX","age":18},
+    {"id":4,"name":"Isha","des":"CA","age":48},
+    {"id":5,"name":"Pablo","des":"IL","age":18},
+    {"id":6,"name":"Sameer","des":"FL","age":40}
+]}
