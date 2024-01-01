@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import MyCards from './components/MyCards';
 import MyNavBar from './components/MyNavBar';
+import Faqs from './components/Faqs';
 //import {Routes,Route} from 'react-router-dom'
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
         <Route path="/" element={<Home/>}/>
         <Route path="/about" element={<About/>}/>
         <Route path="/acads" element={<Acads/>} />
+        <Route path="/Faqs" element={<Faqs/>} />
       </Routes> */}
     </div>
   );
