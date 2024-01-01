@@ -6,19 +6,19 @@ const MyNavbar = () => {
         <div className="container-fluid">
         
         <nav className="navbar navbar-expand-sm navbar-dark bg-primary sticky-top">
-            <a className="navbar-brand" href="faq.html"><img src="imgs/BlueFlower-2.png" alt="LOGO"/></a>
+            <Link className="navbar-brand" to="/Faqs"><img src="imgs/BlueFlower-2.png" alt="LOGO"/></Link>
             <button className="navbar-toggler d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavId" aria-controls="collapsibleNavId"
                 aria-expanded="false" aria-label="Toggle navigation"></button>
             <div className="collapse navbar-collapse" id="collapsibleNavId">
                 <ul className="navbar-nav me-auto mt-2 mt-lg-0">
                     <li className="nav-item mx-4 my-4">
-                        <a className="nav-link" href="bulletin.html">Bulletin-Board</a>
+                        <Link className="nav-link" to="/">Bulletin-Board</Link>
                     </li>
                     <li className="nav-item mx-4 my-4">
                         <a className="nav-link" href="loadForm.html">Upload-Posts</a>
                     </li>
                     <li className="nav-item mx-4 my-4">
-                        <a className="nav-link" href="faq.html">FAQ</a>
+                        <Link className="nav-link" to="/Faqs">FAQ</Link>
                     </li>
                    
                 </ul>         
@@ -54,7 +54,7 @@ const MyNavbar = () => {
 </script>
 
 <br/>
-<footer> Teamup &copy;  2023</footer>      
+{/* <footer> Teamup &copy;  2023</footer>  */}  
 
     </div>
 
