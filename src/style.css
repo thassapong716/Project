@@ -1,0 +1,49 @@
+
+#div1, #div2, #contactMe {
+    background-color: beige;
+    margin: 10px;
+    padding: 10px;
+}
+
+header,footer{
+   height: 40px;
+   background-color:blue;
+   color: #fff;
+   text-align: center;
+}
+
+.table1 {
+   width: 500px;
+   border: 3px solid black;
+   border-collapse: collapse;
+
+   /*border-bottom-right: pink
+   border-left: black;
+   border-right: black; */
+   
+}
+
+.table2 {
+   width: 500px;
+   border: 3px solid black;
+   border-collapse: collapse;
+}
+
+th {
+        background-color:rgb(8, 188, 128);
+        border-color:rgb(199, 206, 189);
+}
+
+.role {
+   width: 65%;
+  /* border: purple; */
+}
+
+.skill {
+   background-color: rgb(8, 188, 128);
+   width: 35%;
+}
+
+td {
+   border-color: rgb(199, 206, 189);
+}
